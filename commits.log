@@ -1,0 +1,91 @@
+commit 7558adee328f926179cdd83af55840a9e6862e6f
+Author: Hanuel José Martínez Guzmán <hanuel345martinez@gmail.com>
+Date:   Mon Dec 30 21:05:40 2024 -0400
+
+    Agregando 2 parrafos
+
+commit cc373464d20bb3fb31f07e0db87e9540f48e5b13
+Merge: 7ed9604 b667b3f
+Author: Hanuel José Martínez Guzmán <hanuel345martinez@gmail.com>
+Date:   Mon Dec 30 20:51:55 2024 -0400
+
+    Resolviendo conflicto al hacer amend
+
+commit 7ed9604bec6d8a91de7806752bac67a3efc8b8d8
+Author: Hanuel José Martínez Guzmán <hanuel345martinez@gmail.com>
+Date:   Mon Dec 30 20:15:40 2024 -0400
+
+    Agregando estaciones del ano
+
+commit b667b3f123224e721ef12c8fc5fc06b510b4170d
+Author: Hanuel José Martínez Guzmán <hanuel345martinez@gmail.com>
+Date:   Mon Dec 30 20:15:40 2024 -0400
+
+    Agregando estaciones del ano
+
+commit 8efce41766b8d1088f30a475411ee0d28bb0989b
+Merge: 28f3172 c7846a2
+Author: Hanuel José Martínez Guzmán <hanuel345martinez@gmail.com>
+Date:   Mon Dec 30 20:02:40 2024 -0400
+
+    Resolviendo conflictos entre la rama main/html
+
+commit c7846a21bbab29519670c88c90990aae23946a86
+Author: Hanuel José Martínez Guzmán <hanuel345martinez@gmail.com>
+Date:   Mon Dec 30 19:52:28 2024 -0400
+
+    Agregando JS al html
+
+commit 28f3172d3d0e9e9108573c5b00f2295c8bd5f2db
+Author: Hanuel José Martínez Guzmán <hanuel345martinez@gmail.com>
+Date:   Mon Dec 30 19:49:52 2024 -0400
+
+    Agregando hoja de estilos al html
+
+commit ab256004282ef97953596e1f2faf789b64d9a8a2
+Author: Hanuel José Martínez Guzmán <hanuel345martinez@gmail.com>
+Date:   Mon Dec 30 19:07:40 2024 -0400
+
+    Creando index.js
+
+commit 31496215c4cc9a97ae4607f9e0758a188ee0f759
+Author: Hanuel José Martínez Guzmán <hanuel345martinez@gmail.com>
+Date:   Sun Dec 29 20:04:04 2024 -0400
+
+    Creando style.css
+
+commit 55cf782fceebd20dadd913b010736abb0b09b7b6
+Author: Hanuel José Martínez Guzmán <hanuel345martinez@gmail.com>
+Date:   Sun Dec 29 19:55:43 2024 -0400
+
+    Creando index.html
+
+commit 9768294d381a3ac1a73dacc67d19b0370c60fa21
+Author: Hanuel José Martínez Guzmán <hanuel345martinez@gmail.com>
+Date:   Sun Dec 29 19:10:23 2024 -0400
+
+    Escondiendo los .exe
+
+commit db8f3dc0d80a9b750e48cc6c3814c1e12c30c220
+Author: Hanuel José Martínez Guzmán <142633691+Hanuel08@users.noreply.github.com>
+Date:   Mon Oct 28 22:04:55 2024 -0400
+
+    Create LICENSE
+
+commit 60c7616f972fa4a344b579148451a3b24c71d6d9
+Author: Hanuel José Martínez Guzmán <hanuel345martinez@gmail.com>
+Date:   Sat Sep 7 21:58:54 2024 -0400
+
+    Agregando mas cambios al README.md
+
+commit 1e0e48be80e901501a1aca89b2250b8312ccbd19
+Author: Hanuel José Martínez Guzmán <hanuel345martinez@gmail.com>
+Date:   Sat Sep 7 20:57:01 2024 -0400
+
+    Agregando contenido inicial al README
+
+commit e86b0b961c86abc2cb7af8b6895ccd3cd789d1a4
+Author: Hanuel José Martínez Guzmán <hanuel345martinez@gmail.com>
+Date:   Sat Sep 7 20:47:16 2024 -0400
+
+    first commit 😁
